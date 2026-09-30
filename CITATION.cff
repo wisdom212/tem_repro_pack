@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Reproducibility Pack for the review of "Water-bearing structures in
+  tunnel engineering based on high-precision 3-D advanced geological
+  prediction TEM": reference denoising pipeline, reproducible Table 2,
+  Monte-Carlo robustness and additive-noise control
+message: >-
+  Review-side reference implementation built solely from
+  manuscript-disclosed parameters (synthetic data; no forward/inversion
+  code). Companion to the R4 review report and the terminal-round
+  revision task book, 2026-09-30.
+type: dataset
+authors:
+  - name: "Review-side reproducibility working group"
+    affiliation: "manuscript review workflow"
+identifiers:
+  - type: other
+    value: "tem_repro_pack_v3"
+    description: "Pack version 3 (2026-09-30); v2 and v1 same day"
+repository-code: >-
+  Distributed as an email attachment; to be superseded by the authors'
+  own versioned DOI archive (review task T2).
+keywords:
+  - transient electromagnetic (TEM)
+  - wavelet denoising
+  - reproducibility
+  - SNR/RMSE audit
+license: CC-BY-4.0
+date-released: "2026-09-30"
